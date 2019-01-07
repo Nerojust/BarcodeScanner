@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\a34ac2a32ff1ada2f3a622faa2c856a82c85dd59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41bb2b526c6c25eca102f77ec8b5c371ddd9c12b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\3745f3ef4b79650dbbca85f2b3d5fb4f6bb07427\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcd5b59b126f8ad97494717728b5cbc325bef98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\ee14f6eaacb4c3342015ef459f9a88f62898028b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_673823c4db589f507d83f2e11070f8ff30435cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\e1b0d9283a63d9777c142e261165353503694178\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d171880c360d083d82dcbb0b3d18cf3242cd942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="422657a2cbbf97bbfaeeeac9e9b5fa0094064fdb">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ca47df676fec66921f2d77434054dbadb6289ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\a4027c5f752bdea458a55043a8c50cf68dd264a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16cd36d5be398fe699180ca93b9fdd62c44bcb4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_34f34520ecd556978cc3e0caba52316de7c8b247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_b311334a66f85c31458eb387d7c28d62876b877e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\43997b31d92acf8fda911c271ff85ef281daadae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14b1098d925adcb1cdddea7baa17b7be6259c2af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_9f8d4192b8cc013d3a1ff9630c8c0e5f5938b80a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\2d8d16e49bbb3f7516cd15a22ffa1cdb081e3678\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0c77eb31c03aafb7a970dac66337f9cd38ae4cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\0f4d826152ae38a8ea444e305bdff734f5be7b30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3391400424e9286cb4db393631b2916be8d7e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\c457e283394d9425534115dabb75ecfc03862489\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff9021147368dc1945ccf1b52a0a83fa41e2a7f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\ee77a6213f98b89f92f3f8aec542bf636887c71c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1aa175116328c2107674d26c50d0badca6022539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VIDICON DEV 01\.android\build-cache\46d9afd17aed8eb23b01de873300700930ee0600\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\QRBarcodeScanner-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25ec3f87184d8cc3d152174bca8ab01f6f0bb2f0\classes.dex" />
+    </item>
+
+</items>
